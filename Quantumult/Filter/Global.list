@@ -2,15 +2,13 @@ host-keyword, openstreetmap, PROXY
 host-keyword, nianticlabs, PROXY
 host-keyword, bumble, PROXY
 host-keyword, bumbcdn, PROXY
-host-suffix, fastly.net, PROXY
+host-keyword, trakt, PROXY
 host-suffix, amazonaws.com, PROXY
 host-suffix, orstatic.com, PROXY
 host-suffix, contentstack.io, PROXY
 host-suffix, appcenter.ms, PROXY
 host-suffix, app-measurement.com, PROXY
-host-keyword, trakt, PROXY
 
-# Streaming Media
 # (Porn)
 host-keyword, porn, PROXY
 host-keyword, jable,PROXY
@@ -18,7 +16,7 @@ host-keyword, cableav, PROXY
 host-keyword, pigav, PROXY
 host-keyword, madou, PROXY
 host-suffix, fc2.com, PROXY
-# (Live)
+
 # > Twitch
 DOMAIN-SUFFIX,ext-twitch.tv,Streaming
 DOMAIN-SUFFIX,jtvnw.net,Streaming
@@ -26,8 +24,6 @@ DOMAIN-SUFFIX,ttvnw.net,Streaming
 DOMAIN-SUFFIX,twitch.tv,Streaming
 DOMAIN-SUFFIX,twitchcdn.net,Streaming
 DOMAIN-SUFFIX,twitch-ext.rootonline.de,Streaming
-
-# (Music)
 # > Deezer
 USER-AGENT,Deezer*,Streaming
 DOMAIN-SUFFIX,deezer.com,Streaming
@@ -63,16 +59,12 @@ DOMAIN-SUFFIX,tidal.com,Streaming
 # > YouTubeMusic
 USER-AGENT,com.google.ios.youtubemusic*,Streaming
 USER-AGENT,YouTubeMusic*,Streaming
-
-# (Podcast)
 # > Himalaya
 USER-AGENT,Himalaya*,Streaming
 DOMAIN-SUFFIX,himalaya.com,Streaming
 # > Overcast
 USER-AGENT,Overcast*,Streaming
 DOMAIN-SUFFIX,overcast.fm,Streaming
-
-# (Video)
 # > AbemaTV
 USER-AGENT,AbemaTV*,Streaming
 DOMAIN-SUFFIX,abema.io,Streaming
@@ -312,17 +304,6 @@ DOMAIN-SUFFIX,pornhubpremium.com,Streaming
 USER-AGENT,TaiwanGood*,Streaming
 DOMAIN-SUFFIX,skyking.com.tw,Streaming
 DOMAIN,hamifans.emome.net,Streaming
-# > TikTok
-USER-AGENT,TikTok*,Streaming
-DOMAIN-SUFFIX,byteoversea.com,Streaming
-DOMAIN-SUFFIX,ibytedtos.com,Streaming
-DOMAIN-SUFFIX,muscdn.com,Streaming
-DOMAIN-SUFFIX,musical.ly,Streaming
-DOMAIN-SUFFIX,tiktok.com,Streaming
-DOMAIN-SUFFIX,tik-tokapi.com,Streaming
-DOMAIN-SUFFIX,tiktokcdn.com,Streaming
-DOMAIN-SUFFIX,tiktokv.com,Streaming
-DOMAIN-KEYWORD,tiktokcdn-,Streaming
 # > TVer
 USER-AGENT,TVer-Release*,Streaming
 DOMAIN-SUFFIX,tver.jp,Streaming
@@ -598,8 +579,6 @@ DOMAIN-SUFFIX,zynamics.com,PROXY
 DOMAIN-KEYWORD,google,PROXY
 DOMAIN-KEYWORD,.blogspot.,PROXY
 DOMAIN-SUFFIX,goog,PROXY
-# > Apple
-DOMAIN,testflight.apple.com,PROXY
 # > Automattic
 DOMAIN-SUFFIX,gravatar.com,PROXY
 DOMAIN-SUFFIX,tumblr.com,PROXY
@@ -657,6 +636,7 @@ DOMAIN-SUFFIX,dropbox.com,PROXY
 DOMAIN-SUFFIX,dropboxapi.com,PROXY
 DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
 # > Fastly
+host-suffix, fastly.net, PROXY
 DOMAIN-SUFFIX,freetls.fastly.net,PROXY
 DOMAIN,cloud-cdn-digitalocean-com.global.ssl.fastly.net,PROXY
 DOMAIN,github.global.ssl.fastly.net,PROXY
