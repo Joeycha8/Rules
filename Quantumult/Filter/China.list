@@ -1,4 +1,5 @@
 host-keyword, sf-express, direct
+host-suffix, 10086.cn, direct
 
 # > Acfun
 DOMAIN-SUFFIX,acfun.cn,DIRECT
