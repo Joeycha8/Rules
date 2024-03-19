@@ -6,6 +6,7 @@ host-keyword,sf-express, direct
 host-suffix,10086.cn, direct
 host-suffix,95516.com, direct
 host-suffix,ccb.com, direct
+host-suffix,amap.com, direct
 
 # > Acfun
 DOMAIN-SUFFIX,acfun.cn,DIRECT
