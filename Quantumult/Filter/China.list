@@ -16,6 +16,7 @@ host-suffix,ecitic.com, direct
 host-suffix,icbc.com.cn, direct
 host-suffix,amap.com, direct
 host-suffix,huazhu.com, direct
+host-suffix,qq.com, direct
 
 # > Acfun
 DOMAIN-SUFFIX,acfun.cn,DIRECT
