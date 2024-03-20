@@ -11,13 +11,18 @@ host-keyword,weixin, direct
 host-keyword,sf-express, direct
 host-suffix,10086.cn, direct
 host-suffix,95516.com, direct
-host-suffix,ccb.com, direct
-host-suffix,ecitic.com, direct
-host-suffix,icbc.com.cn, direct
 host-suffix,amap.com, direct
+host-suffix,ccb.com, direct
+host-suffix,cmpassport.com, direct
+host-suffix,ecitic.com, direct
 host-suffix,huazhu.com, direct
+host-suffix,icbc.com.cn, direct
+host-suffix,mmarket.com, direct
 host-suffix,qq.com, direct
 host-suffix,pingan.com, direct
+host-suffix,tenpay.com, direct
+host-suffix,tencent-stock.com, direct
+host-suffix,txfund.com, direct
 
 # > Acfun
 DOMAIN-SUFFIX,acfun.cn,DIRECT
