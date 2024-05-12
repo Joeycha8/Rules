@@ -1,10 +1,6 @@
 host-keyword,baidu, direct
-host-keyword,bankofbeijing, direct
-host-keyword,bankcomm, direct
-host-keyword,cebbank, direct
 host-keyword,csair, direct
 host-keyword,jegotrip, direct
-host-keyword,lufax, direct
 host-keyword,smzdm, direct
 host-keyword,suning, direct
 host-keyword,weixin, direct
@@ -12,23 +8,44 @@ host-keyword,sf-express, direct
 host-suffix,10086.cn, direct
 host-suffix,17u.cn, direct
 host-suffix,17usoft.com, direct
-host-suffix,95516.com, direct
 host-suffix,amap.com, direct
-host-suffix,ccb.com, direct
-host-suffix,citicbank.com, direct
 host-suffix,cmpassport.com, direct
-host-suffix,cup.com.cn, direct
 host-suffix,ctrip.com, direct
-host-suffix,ecitic.com, direct
 host-suffix,huazhu.com, direct
-host-suffix,icbc.com.cn, direct
 host-suffix,mmarket.com, direct
 host-suffix,newrelic.com, direct
 host-suffix,qq.com, direct
+
+
+# > Bank & financial
+host-suffix,95516.com, direct
+host-suffix,bankofbeijing.com, direct
+host-suffix,bankcomm.com, direct
+host-suffix,cebbank.com, direct
+host-suffix,ccb.com, direct
+host-suffix,citicbank.com, direct
+host-suffix,cup.com.cn, direct
+host-suffix,ecitic.com, direct
+host-suffix,icbc.com.cn, direct
+host-suffix,lufax.com, direct
 host-suffix,pingan.com, direct
 host-suffix,tenpay.com, direct
 host-suffix,tencent-stock.com, direct
 host-suffix,txfund.com, direct
+
+host-suffix, airstarbank.com, direct
+host-suffix, antbank.hk, direct
+host-suffix, bochk.com, direct
+host-suffix, cmbwinglungbank.com, direct
+host-suffix, cncbinternational.com, direct
+host-suffix, fusionbank.com, direct
+host-suffix, hangseng.com, direct
+host-suffix, hsbc.com.hk, direct
+host-suffix, livibank.com, direct
+host-suffix, welab.bank, direct
+host-suffix, zajourney.com, direct
+host-suffix, za.group, direct
+
 
 # > Acfun
 DOMAIN-SUFFIX,acfun.cn,DIRECT
