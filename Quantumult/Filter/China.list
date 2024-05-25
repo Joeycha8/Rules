@@ -42,6 +42,8 @@ host-suffix, fusionbank.com, direct
 host-suffix, hangseng.com, direct
 host-suffix, hsbc.com.hk, direct
 host-suffix, livibank.com, direct
+host-suffix, sc.com, direct
+host-keyword,standchartbank, direct
 host-suffix, welab.bank, direct
 host-suffix, zajourney.com, direct
 host-suffix, za.group, direct
