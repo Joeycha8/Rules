@@ -30,6 +30,8 @@ host-suffix,cup.com.cn, direct
 host-suffix,ecitic.com, direct
 host-suffix,icbc.com.cn, direct
 host-suffix,lufax.com, direct
+host-suffix,ncb.com.hk, direct
+host-suffix,ncbtech.cn, direct
 host-suffix,pingan.com, direct
 host-suffix,tenpay.com, direct
 host-suffix,tencent-stock.com, direct
