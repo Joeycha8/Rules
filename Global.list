@@ -1,0 +1,36 @@
+host-keyword, openstreetmap, PROXY
+host-keyword, nianticlabs, PROXY
+host-keyword, bumble, PROXY
+host-keyword, bumbcdn, PROXY
+host-keyword, trakt, PROXY
+host-suffix, amazonaws.com, PROXY
+host-suffix, orstatic.com, PROXY
+host-suffix, contentstack.io, PROXY
+host-suffix, appcenter.ms, PROXY
+host-suffix, app-measurement.com, PROXY
+
+# (Porn)
+host-keyword, porn, PROXY
+host-keyword, jable,PROXY
+host-keyword, cableav, PROXY
+host-keyword, pigav, PROXY
+host-keyword, madou, PROXY
+host-suffix, fc2.com, PROXY
+
+#HK
+DOMAIN-KEYWORD,hk01,PROXY
+DOMAIN-KEYWORD,ztore,PROXY
+DOMAIN-KEYWORD,hktvmall,PROXY
+DOMAIN-KEYWORD,openrice,PROXY
+DOMAIN-KEYWORD,hkemobility,PROXY
+DOMAIN-SUFFIX,mtr.com.hk,PROXY
+DOMAIN-SUFFIX,watsons.com.hk,PROXY
+DOMAIN-SUFFIX,aswatson.com,PROXY
+DOMAIN-SUFFIX,gov.hk,PROXY
+DOMAIN-SUFFIX,kmb.hk,PROXY
+DOMAIN-SUFFIX,club100.hk,PROXY
+DOMAIN-SUFFIX,move-hub.net,PROXY
+DOMAIN-SUFFIX,three.com.hk,PROXY
+DOMAIN-SUFFIX,fortress.com.hk,PROXY
+DOMAIN-SUFFIX,yuurewards.com,PROXY
+DOMAIN-SUFFIX,cathaypacific.com,PROXY
