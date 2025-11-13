@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,mmarket.com, DIRECT
 DOMAIN-SUFFIX,newrelic.com, DIRECT
 DOMAIN-SUFFIX,qq.com, DIRECT
 DOMAIN-SUFFIX,tencentcos.cn, DIRECT
+DOMAIN-SUFFIX,tencent-cloud.net, DIRECT
 
 # > Bank & financial
 DOMAIN-SUFFIX,95508.com, DIRECT
